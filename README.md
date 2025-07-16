@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Hi, I'm **Chen Liu**
 
-<!--
-**Tian8du/Tian8du** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Student at Wuhan University  
+Researching Remote Sensing, Multi-view Stereo (MVS), and Semantic Modeling  
+Focus: 3D Reconstruction from Satellite Imagery
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Projects
+
+- [**SP-MVS**](https://github.com/Tian8du/SP-MVS): Edge-aware height estimation from satellite MVS
+- [**SSC-Codes**](https://github.com/Tian8du/SSC-Codes): Semantic interpolation for lake area time series
+- [**Sat_MVSF**](https://github.com/Tian8du/Sat_MVSF): Unsupervised satellite MVS framework
+- [**Sat-MVS-Dataset**](https://github.com/Tian8du/Sat-MVS-Dataset): Tool for generating MVS3D/US3D samples
+
+---
+
+### 🧠 Research Topics
+
+- Multi-view 3D reconstruction from remote sensing data  
+- Semantic-guided spatial-temporal interpolation  
+- Satellite image modeling, DSM generation  
+- Unsupervised & semi-supervised methods in geospatial vision
+
+---
+
+### 📫 Contact
+
+- Email: chenliu@whu.edu.cn
