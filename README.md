@@ -10,7 +10,7 @@ Focus: 3D Reconstruction from Satellite Imagery
 
 - [**SP-MVS**](https://github.com/Tian8du/SP-MVS): Edge-aware height estimation from satellite MVS
 - [**SSC-Codes**](https://github.com/Tian8du/SSC-Codes): Semantic interpolation for lake area time series
-- [**Sat_MVSF**](https://github.com/Tian8du/Sat_MVSF): Unsupervised satellite MVS framework
+- [**Sat_MVSF**](https://github.com/Tian8du/Sat_MVSF): Satellite MVS framework
 - [**Sat-MVS-Dataset**](https://github.com/Tian8du/Sat-MVS-Dataset): Tool for generating MVS3D/US3D samples
 
 ---
